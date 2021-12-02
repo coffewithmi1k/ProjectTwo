@@ -10,7 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^9.1.0",
-    "cypress-eslint-preprocessor": "^1.2.2"
+    "cypress-eslint-preprocessor": "^1.2.2",
+    "eslint-plugin-cypress": "^2.12.1"
   },
   "dependencies": {
     "cucumber": "^7.0.0-rc.0",
