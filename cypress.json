@@ -1,3 +1,5 @@
 {
-  "baseUrl": "https://eurohouse.ua/ua"
+  "baseUrl": "https://eurohouse.ua/ua",
+  "testFiles": "**/*.{feature,features}"
 }
+
